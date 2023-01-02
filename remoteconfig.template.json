@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "show_task_edit_button": {
+      "defaultValue": {
+        "value": "true"
+      },
+      "description": "A feature toggle that hides or shows the “edit to-do item” feature in the Todo app.",
+      "valueType": "BOOLEAN"
+    }
+  },
+  "version": {
+    "versionNumber": "1",
+    "updateTime": "2023-01-02T00:19:20.276316Z",
+    "updateUser": {
+      "email": "mitulvaghmashi@gmail.com"
+    },
+    "updateOrigin": "CONSOLE",
+    "updateType": "INCREMENTAL_UPDATE"
+  }
+}
